@@ -1,0 +1,92 @@
+body{
+	background: aqua;
+}
+.maindiv{
+	background: pink;
+	display:flex;
+	/*flex-wrap:wrap;*/
+	flex-direction: row;
+	/*justify-content: space-around;*/
+	margin:10%;
+}
+.leftdiv{
+	background: bisque;
+	margin:5%;
+    width:25%;
+    border-radius: 5%;
+    text-align: center; 
+}
+.rightdiv{
+	background: bisque;
+	margin:5%;
+	border-width: 10%;
+	width:55%;
+}
+img{
+	margin:5%;
+	width:70%
+	height:35%;
+}
+@media screen and (min-width: 320px) and (max-width: 480px){  
+   body{
+	     background: aqua;
+    }
+ }    
+.maindiv{
+	background: pink;
+	display:flex;
+	/*flex-wrap:wrap;*/
+	/*justify-content: space-around;*/
+	margin:3%;
+}
+.leftdiv{
+	background: bisque;
+	margin:3%;
+    width:90%;
+    border-radius: 3%;
+    text-align: center; 
+}
+.rightdiv{
+	background: bisque;
+	margin:3%;
+	border-width: 3%;
+	width:90%;
+	padding: 1%
+}
+img{
+	margin:3%;
+	width:70%
+	height:35%;
+	border-radius:3%
+}
+@media screen and (min-width: 481px) and (max-width: 670px){
+	body{
+		background-color: red;
+	}
+}.maindiv{
+	background: pink;
+	display:flex;
+	 /*flex-wrap:wrap;*/
+	/*justify-content: space-around;*/
+	margin:3%;
+}
+.leftdiv{
+	background: bisque;
+	margin:3%;
+    width:50%;
+    border-radius: 3%;
+    text-align: center; 
+}
+.rightdiv{
+	background: bisque;
+	margin:3%;
+	border-width: 3%;
+	width:50%;
+	padding: 1%
+}
+img{
+	margin:3%;
+	width:70%
+	height:35%;
+	border-radius:3%
+}

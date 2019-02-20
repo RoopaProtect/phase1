@@ -1,0 +1,24 @@
+body{
+	background: pink;
+}
+.main{
+	background: aqua;
+	display: flex;
+	justify-content: space-around;
+	margin:10%;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+}	
+.sub{
+    background:bisque; 
+    margin:5%;
+    border-radius: 5%;
+    text-align: center;
+    box-shadow: 4px 4px 4px 4px;
+}	
+img{
+	margin:4%;
+	border-radius: 5%;
+	width:70%;
+	height:45;
+}

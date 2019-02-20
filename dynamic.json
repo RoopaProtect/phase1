@@ -1,0 +1,49 @@
+
+{
+	"profile":{
+		"img":"image.png",
+		"name":"roopa",
+		"roll":"17NN1A1201",
+	    "place":"guntur",
+	    "email":"allaroopa@gmail.com"	
+    },
+     "career":{
+     	"info":"i want to work in a best company"
+     },
+     "education":[
+     	{
+     		"degree":"b.tec",
+     		"institute":"vignan",
+     		"per":"89",
+     		"yop":"2021"
+     	},	
+      	{
+     		"degree":"inter",
+     		"institute":"sri chaitanya",
+     		"per":"89",
+     		"yop":"2017"
+     	},
+        {
+     		"degree":"school",
+     		"institute":"kennedy",
+     		"per":"89",
+     		"yop":"2015"
+     	}
+       ],
+       "language":[
+       	{
+       	
+       		"info":"telugu"
+       	},
+       	{
+       		"info":"hindi"
+       	}
+
+
+       ]
+
+
+
+
+
+}
